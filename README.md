@@ -17,7 +17,7 @@ These tech tests are adapted from real tech tests taken from junior interviews. 
 
 #### Tech Test Process
 
-1. Start by reading the [tech test guide](https://github.com/makersacademy/jobhunters/blob/main/pills/tech_test_guide.md).
+1. Start by reading the [tech test guide](tech_test_guide.md).
 
 3. Start working on the [Money Tracker](https://github.com/makersacademy/money_tracker_tech_test/blob/main/README.md) tech test.
 
