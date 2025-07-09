@@ -1,6 +1,6 @@
 # Individual technical challenges
 
-* **Can you solve a challenging technical problem by writing well-crafted code?**
+**Can you solve a challenging technical problem by writing well-crafted code?**
 
 By "well-crafted code", we mean code that is:
 
@@ -8,12 +8,12 @@ By "well-crafted code", we mean code that is:
 * Easy to read.
 * Easy to change.
 
-#### Secondary goals
+#### The Purpose of Practice Tech Tests
 
-By the end of the week, you should:
+These tech tests are adapted from real tech tests taken from junior interviews. They are designed to support you to
 
-* Feel more confident in your ability to complete a tech test.
-* Have developed a structured process that uses TDD and OO design skills to solve complex problems.
+* grow confident in your ability to complete a tech test.
+* develop a structured process that uses TDD and OO design skills to solve complex problems.
 
 #### Tech Test Process
 
