@@ -28,11 +28,8 @@ These tech tests are adapted from real tech tests taken from junior interviews. 
 
 ### Resources
 
-* [Tech test checklist](https://github.com/makersacademy/jobhunters/blob/main/pills/tech_test_guide.md)
+* [Tech Test Guide](/tech_test_guide.md)
 * [The Coding Dojo Handbook (recommended reading post-course)](https://leanpub.com/codingdojohandbook)
 
-<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
-
----
 
 
